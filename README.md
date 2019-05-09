@@ -1,2 +1,3 @@
 # RocketmqTransaction
 Rocketmq分布式事务demo
+付款与增加积分保证事务一致性
